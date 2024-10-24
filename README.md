@@ -1,1 +1,1 @@
-# Mecatronics
+# Laboratorios de Mecatrónica
